@@ -1,1 +1,1 @@
-web: gunicorn amafood.wsgi
+web: gunicorn amafood.wsgi:application
